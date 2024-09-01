@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @billmj<br>👀 I’m passionate about High-Performance Computing (HPC), Machine Learning, and Cybersecurity.<br>🌱 My work revolves around optimizing performance in distributed systems, particularly in network anomaly detection and critical infrastructure monitoring.<br>💼 I’m open to collaborating on projects related to HPC, distributed machine learning, and cybersecurity.<br>📫 You can check out my portfolio at https://williammj.com/
+👋 Hi, I’m @billmj<br>👀 I’m passionate about High-Performance Computing (HPC), Machine Learning, and Cybersecurity.<br>🌱 My work revolves around optimizing performance in distributed systems, particularly in network anomaly detection and critical infrastructure monitoring.<br>💼 I’m open to collaborating on projects related to HPC, distributed machine learning,networks, cyber-physical systems and cybersecurity.<br>📫 You can check out my portfolio at https://williammj.com/
 
 
 ## 🌐 Socials:
